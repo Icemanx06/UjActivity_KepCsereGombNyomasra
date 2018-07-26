@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activityk</string>
+    <string name="uj_activity_button">Új Activity Megnyitása</string>
+    <string name="activity_text">Ez itt az új Activity!</string>
+    <string name="zold_button">Kép megvátoztat zöldre</string>
+    <string name="piros_button">Kép megváltoztat pirosra</string>
+</resources>
